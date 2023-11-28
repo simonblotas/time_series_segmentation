@@ -1,2 +1,4 @@
 Databases/
 pipelines.py
+.venv
+main_constants.py
