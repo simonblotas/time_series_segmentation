@@ -2,3 +2,4 @@ Databases/
 pipelines.py
 .venv
 main_constants.py
+__pycache__/
