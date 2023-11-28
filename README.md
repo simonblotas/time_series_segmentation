@@ -17,23 +17,17 @@ The "Segmentation with Notebook" project provides a comprehensive solution for c
 
 ## Getting Started
 
-Provide instructions on how to get your project up and running on a local machine. Include information on any dependencies and steps needed for installation.
+This section provides instructions on how to set up and run the project on a local machine. It includes information on dependencies and installation steps.
 
-### Prerequisites
+### Dependencies
 
-List any prerequisites that users need to have installed before they can use your project.
+To use the databases employed in this project, you are required to download the "Databases" folder. Specify the path to access this folder in the `main_constant.py` file on your machine.
 
-### Installation
+[Databases Folder](https://drive.google.com/drive/folders/17pU6Sy50mGwbkWo1lSW54WkzouJDnRTy?usp=sharing)
 
-Provide step-by-step instructions on how to install and set up your project.
+### Usage Instructions
 
-## Usage
+All the necessary information for using this repository is explained with examples in the notebook `example.ipynb`. Refer to this notebook for a detailed guide on how to use the functionalities provided by this repository.
 
-Explain how to use your project. Provide code examples, if applicable.
 
-### Example
 
-Include an example of how to use your project, including code snippets and expected outcomes.
-
-```python
-# Example code here
