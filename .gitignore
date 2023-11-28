@@ -5,3 +5,4 @@ __pycache__/
 results_benchmark/
 benchmark.py
 test_files/
+main_constant.py
