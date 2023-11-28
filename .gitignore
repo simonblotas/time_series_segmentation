@@ -3,3 +3,6 @@ pipelines.py
 .venv
 main_constants.py
 __pycache__/
+results_benchmark/
+benchmark.py
+test_files/
