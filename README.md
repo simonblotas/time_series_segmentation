@@ -9,10 +9,10 @@ The "Time Series Segmentation" project provides a comprehensive solution for com
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
 - [Usage](#usage-instructions)
+- [CNN Architecture](#cnn-architecture)
+- [FCNN Architecture](#fcnn-architecture)
 
 ## Getting Started
-
-This section provides instructions on how to set up and run the project on a local machine. It includes information on dependencies and installation steps.
 
 ### Prerequisites
 
@@ -25,3 +25,11 @@ To use the databases employed in this project, you are required to download the 
 All the necessary information for using this repository is explained with examples in the notebook `example.ipynb`. Refer to this notebook for a detailed guide on how to use the functionalities provided by this repository.
 
 You can also read this PDF summarizing the project and its mathematical aspects: [Project Summary PDF](https://drive.google.com/file/d/1BVJmkIo9FJL8CaKSf6toWkZ0KeVRvUIC/view?usp=sharing)
+
+## CNN Architecture
+
+![CNN Architecture](https://drive.google.com/file/d/12csTrwdKFPsaV5hx8z2f5zOMpsC_6uA9/view?usp=drive_link)
+
+## FCNN Architecture
+
+![FCNN Architecture](https://drive.google.com/file/d/1Qwj5H2Hr7E0BN6_n4HGSHn7GWGHPsNOD/view?usp=drive_link)
