@@ -28,8 +28,8 @@ You can also read this PDF summarizing the project and its mathematical aspects:
 
 ## CNN Architecture
 
-![CNN Architecture](https://drive.google.com/file/d/12csTrwdKFPsaV5hx8z2f5zOMpsC_6uA9/view?usp=drive_link)
+![CNN Architecture](https://drive.google.com/uc?id=12csTrwdKFPsaV5hx8z2f5zOMpsC_6uA9)
 
 ## FCNN Architecture
 
-![FCNN Architecture](https://drive.google.com/file/d/1Qwj5H2Hr7E0BN6_n4HGSHn7GWGHPsNOD/view?usp=drive_link)
+![FCNN Architecture](https://drive.google.com/uc?id=1Qwj5H2Hr7E0BN6_n4HGSHn7GWGHPsNOD)
