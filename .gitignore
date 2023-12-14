@@ -1,8 +1,6 @@
 Databases/
-pipelines.py
 .venv
 __pycache__/
 results_benchmark/
-benchmark.py
 test_files/
 main_constant.py
