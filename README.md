@@ -55,7 +55,7 @@ The convolutional layers are characterized by the following parameters:
 
 After the two convolutional layers, we ensure the signal falls within the range of 0 to 1 for uniformity and improved performance.
 
-![CNN Architecture](https://drive.google.com/uc?id=12csTrwdKFPsaV5hx8z2f5zOMpsC_6uA9)
+![CNN Architecture](https://drive.google.com/uc?id=1WPqmqH9_5kS6zyGgwnobOwrMM8wMH2mh)
 
 ### FCNN Architecture
 
@@ -73,5 +73,5 @@ The linear layers are characterized by:
 
 Like the CNN network, we ensure the signal falls within the 0 to 1 range before performing the classic segmentation method.
 
-![FCNN Architecture](https://drive.google.com/uc?id=1Qwj5H2Hr7E0BN6_n4HGSHn7GWGHPsNOD)
+![FCNN Architecture](https://drive.google.com/uc?id=1UyfSP9D64JUamIEIUqXt9KkhhPAMtFox)
 
