@@ -12,6 +12,7 @@ The "Time Series Segmentation" project provides a comprehensive solution for com
 - [Experimentation](#Experimentation)
   - [CNN Architecture](#cnn-architecture)
   - [FCNN Architecture](#fcnn-architecture)
+  - [Optimizer](#optimizer)
 
 ## Getting Started
 
@@ -75,3 +76,14 @@ Like the CNN network, we ensure the signal falls within the 0 to 1 range before 
 
 ![FCNN Architecture](https://drive.google.com/uc?id=1UyfSP9D64JUamIEIUqXt9KkhhPAMtFox)
 
+### Optimizer
+
+For optimization, we employ the `optax` library, specifically using the Adam optimizer coupled with an exponential decay
+
+ scheduler and gradient clipping by the global norm. 
+
+- **Exponential Decay Scheduler:** This scheduler dynamically adjusts the learning rate during training. It starts with an initial value (`init_value`) and gradually decreases it over time according to a specified decay rate (`decay_rate=0.99`) and transition steps (`transition_steps=1000`). 
+
+- **Gradient Clipping by Global Norm:** Gradient clipping is a technique used to prevent the exploding gradient problem during training. By limiting the norm of the gradients to a threshold value, we ensure stable training and prevent the model from diverging.
+
+We started with a learning rate value of 1e-2.
